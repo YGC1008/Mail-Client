@@ -71,4 +71,4 @@ This project is for educational purposes only. Use responsibly.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Yared
